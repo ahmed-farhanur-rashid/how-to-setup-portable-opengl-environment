@@ -232,10 +232,3 @@ int main() {
 - If you want to reduce size for distribution, remove unused MinGW toolchain pieces after building, but keep the runtime DLLs (`glfw3.dll`, `freeglut.dll`) and any required redistributables.
 
 ---
-
-If you want, I can also:
-
-- Add a sample `main.cpp` and `src/glad.c` into `src/` (I can generate a working example), or
-- Verify the project builds on this machine (I can attempt to run `build.bat`).
-
-Tell me which of those you'd like next.
